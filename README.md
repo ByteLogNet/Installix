@@ -1,4 +1,6 @@
 # Installix
+![Alt text](images/1.png)
+
 
 # 📜 Description
 Installix is a versatile tool designed to simplify the installation of software and browsers. Whether you’re setting up a new system or updating existing software, Installix streamlines the process, saving you time and effort. Its intuitive interface and comprehensive features ensure a smooth and efficient installation experience.
