@@ -13,17 +13,10 @@ Customization Options: Tailor your installations with flexible settings and opti
 # 📝 Usage
 Open Installix:
 
-* Launch the application from your desktop or start menu.
-Select Software or Browser:
-
-* In the main interface, choose from the list of available software or browsers you wish to install.
+* Launch the application.
+  
+* In the main interface, chooese Browser or Software & choose from the list of available software or browsers you wish to install.
 Configure Installation:
-
-* Adjust any necessary settings or preferences for the installation.
-Start Installation:
-
-* Click the "Install" button to begin the installation process. Installix will handle the rest.
-Review Installation:
 
 * Once the installation is complete, review the results and check the installed applications or browsers.
 
