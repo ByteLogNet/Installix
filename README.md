@@ -13,22 +13,22 @@ Customization Options: Tailor your installations with flexible settings and opti
 # 📝 Usage
 Open Installix:
 
-Launch the application from your desktop or start menu.
+* Launch the application from your desktop or start menu.
 Select Software or Browser:
 
-In the main interface, choose from the list of available software or browsers you wish to install.
+* In the main interface, choose from the list of available software or browsers you wish to install.
 Configure Installation:
 
-Adjust any necessary settings or preferences for the installation.
+* Adjust any necessary settings or preferences for the installation.
 Start Installation:
 
-Click the "Install" button to begin the installation process. Installix will handle the rest.
+* Click the "Install" button to begin the installation process. Installix will handle the rest.
 Review Installation:
 
-Once the installation is complete, review the results and check the installed applications or browsers.
+* Once the installation is complete, review the results and check the installed applications or browsers.
 
 # 🐛 Reporting Bugs
-If you encounter any issues or bugs while using Installix, please report them on our GitHub Issues page. We value your feedback and will work diligently to address any problems.
+If you encounter any issues or bugs while using Installix, please report them on our [GitHub Issues page](https://github.com/ByteLogNet/Nexus-Tool/issues). We value your feedback and will work diligently to address any problems.
 
 📄 License
-Installix is licensed under the MIT License. See the LICENSE file for details.
+Installix is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
